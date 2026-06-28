@@ -37,9 +37,8 @@ I am a passionate developer focused on building end-to-end Machine Learning pipe
 
 ---
 
-### 📈 GitHub Stats
+### 🧮 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedhankS&show_icons=true&theme=radical" alt="Vedhank's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedhankS&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
@@ -47,4 +46,4 @@ I am a passionate developer focused on building end-to-end Machine Learning pipe
 
 ### 📫 Connect with Me
 - **Email:** vedhanksirisilla@gmail.com
-- **LinkedIn:** [linkedin.com/in/vedhank-sirisilla](https://linkedin.com/in/vedhank-sirisilla)
+- **LinkedIn:** [www.linkedin.com/in/vedhanksirisilla](www.linkedin.com/in/vedhanksirisilla)
