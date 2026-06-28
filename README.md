@@ -44,6 +44,15 @@ I am a passionate developer focused on building end-to-end Machine Learning pipe
 
 ---
 
+
+<img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/eaa40dd5-6454-490c-b38f-69cc9cf647a9.gif" width="100%">
+
+
+
 ### 📫 Connect with Me
 - **Email:** vedhanksirisilla@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/vedhanksirisilla](www.linkedin.com/in/vedhanksirisilla)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated Divider">
+</p>
